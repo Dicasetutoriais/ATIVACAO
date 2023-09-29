@@ -5,7 +5,7 @@
 <p align="center">Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.</p>
 <hr>
 
-## Note:
+## Atenção:
 
 Os servidores da Microsoft estão atualmente rejeitando solicitações de ativação de HWID ao ativar através do MAS, estamos verificando o que está acontecendo agora.  Use a opção de ativação KMS38 por enquanto.
 
