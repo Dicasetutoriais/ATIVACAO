@@ -15,7 +15,7 @@ Os servidores da Microsoft estão atualmente rejeitando solicitações de ativa�
 
 -   No Windows 8.1/10/11, clique com o botão direito no menu Iniciar do Windows e selecione PowerShell ou Terminal (não CMD).
 -   Copie e cole o código abaixo e pressione enter\
-    `irm https://massgrave.dev/get | iex`
+    ```irm https://massgrave.dev/get | iex```
 -   Você verá as opções de ativação e seguirá as instruções na tela.
 -   Isso é tudo.
 
