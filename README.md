@@ -1,38 +1,38 @@
 <p align="center"><img src="https://raw.githubusercontent.com/massgravel/mas-docs/main/logo.png" alt="MAS Logo" height="128"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft Scripts Ativadores (MAS)</h1>
 
-<p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
+<p align="center">Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.</p>
 <hr>
 
 ## Note:
 
-Microsoft servers are currently rejecting HWID activation requests when activating through MAS, we're checking what's going on now. Use the KMS38 activation option for now. 
+Os servidores da Microsoft estão atualmente rejeitando solicitações de ativação de HWID ao ativar através do MAS, estamos verificando o que está acontecendo agora.  Use a opção de ativação KMS38 por enquanto.
 
-## Download / How to use it?
+## Download / Como usar isto??
 
-### Method 1 - PowerShell (Recommended)
+### Método 1 - PowerShell (Recomendado)
 
--   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
+-   No Windows 8.1/10/11, clique com o botão direito no menu Iniciar do Windows e selecione PowerShell ou Terminal (não CMD).
+-   Copie e cole o código abaixo e pressione enter\
     `irm https://massgrave.dev/get | iex`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+-   Você verá as opções de ativação e seguirá as instruções na tela.
+-   Isso é tudo.
 
-### Method 2 - Traditional
+### Método 2 - Tradicional
 
--   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+-   Download do arquivo [aqui](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+-   Clique com o botão direito no arquivo zip baixado e extraia
+-   Na pasta extraída, encontre a pasta chamada `All-In-One-Version`
+-   Execute o arquivo chamado `MAS_AIO.cmd`
+-   Você verá as opções de ativação e seguirá as instruções na tela.
+-   Isso é tudo.
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+Para executar os scripts no modo autônomo, verifique [aqui](https://massgrave.dev/command_line_switches.html)
 
 ```
-Latest Version: 2.0
-Release date: 25-Sep-2023
+Última versão: 2.0
+Última atualização: 25-Sep-2023
 ```
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
@@ -57,4 +57,4 @@ Release date: 25-Sep-2023
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">Feito com amor ❤️</p>
