@@ -32,7 +32,7 @@ Para executar os scripts no modo autônomo, verifique [aqui](https://massgrave.d
 
 ```
 Última versão: 2.0
-Última atualização: 25-Sep-2023
+Última atualização: 25 de Setembro de 2023
 ```
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
